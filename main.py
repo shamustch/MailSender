@@ -23,6 +23,3 @@ This message is sent from Python."""
 while True:
 
     time.sleep(10)
-
-
-##<tr class="ssrow" style="border-top: 1px solid #eee;"><td valign="top" align="zright" style="font-size: 14px;">Total Balance</td><td valign="top" align="zright" style="font-size: 14px;">16.10131573</td><td valign="top" align="zright" style="font-size: 14px;">$0.21</td></tr>
